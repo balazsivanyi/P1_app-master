@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{31BA9392-82F6-8380-9BEE-2E825160D829}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/sceneMananger.cs">
+    <Files>
+      <File FileName="Assets/Scripts/buttonScript.cs" Line="4" Column="21" />
+      <File FileName="Assets/Scripts/P1implementation.cs" Line="16" Column="40" />
+      <File FileName="Assets/Scripts/PlayMovieTextureOnUI.cs" Line="16" Column="7" />
+      <File FileName="Assets/Scripts/StreamVideo.cs" Line="9" Column="30" />
+      <File FileName="Assets/Scripts/sceneMananger.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
